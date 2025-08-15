@@ -9,6 +9,8 @@ TripTips is a website designed to provide information for travelers and serve as
 **Repositories:**
 - Server: https://github.com/adima1/Server_TripTips.git
 - Client: https://github.com/adima1/Client_TripTips.git
+  
+The source code was uploaded to my project partner's git (adima1)
 
 ## Prerequisites
 
